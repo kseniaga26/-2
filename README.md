@@ -17,9 +17,10 @@
 
 ## Задание 1
 ### Реализовать совместную работу и передачу данных в связке Python - Google.Sheets - Unity
-- Подключение API для работы с google sheets и google drive
 
 Ссылка на созданный проект на console.cloud.google.com: https://console.cloud.google.com/apis/dashboard?project=unitydatasciense-365111
+
+- Подключение API для работы с google sheets и google drive
 
 ![image](https://user-images.githubusercontent.com/114469025/194910050-1067c8e3-9894-4447-8749-592f24692407.png)
 ![image](https://user-images.githubusercontent.com/114469025/194910849-bb07c716-d05e-489d-ba73-3d329e7369fa.png)
@@ -29,9 +30,11 @@
 - Реализация записи данных из скрипта на python в google-таблицу
 
 Код программы в python
+
 ![image](https://user-images.githubusercontent.com/114469025/194911494-e89a95b1-e641-4660-9be0-b632efc63cf4.png)
 
 Вывод данных программы:
+
 ![image](https://user-images.githubusercontent.com/114469025/194911614-4c809532-af9f-43c1-bd3a-0189f13c3797.png)
 
 Ссылка на google-таблицу: https://docs.google.com/spreadsheets/d/1WoByECqunJxc9lO_eL8gABwnv5IL4WxzbLaTHig1pr4/edit?usp=sharing
@@ -141,9 +144,12 @@ public class NewBehaviourScript : MonoBehaviour
 
 ```
 Подстановка соответствующих файлов звука:
+
 ![image](https://user-images.githubusercontent.com/114469025/194913102-982660cb-a487-4b3c-a1a8-0dbdcb9ee3f3.png)
 
 Вывод консоли в проекте в Unity:
+
+![image](https://user-images.githubusercontent.com/114469025/194914970-cbd11c14-49f0-4d1b-abb0-f7c54ea16791.png)
 
 
 - Сравнение данных:
