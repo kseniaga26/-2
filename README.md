@@ -19,15 +19,15 @@
 ### Реализовать совместную работу и передачу данных в связке Python - Google.Sheets - Unity
 - Подключение API для работы с google sheets и google drive
 
-![image](https://user-images.githubusercontent.com/114469025/194910050-1067c8e3-9894-4447-8749-592f24692407.png)
-Ссылка на servise account: 
-![image](https://user-images.githubusercontent.com/114469025/194910849-bb07c716-d05e-489d-ba73-3d329e7369fa.png)
+Ссылка на созданный проект на console.cloud.google.com: https://console.cloud.google.com/apis/dashboard?project=unitydatasciense-365111
 
-Ссылка на API Key AIzaSyAnmBIGLQanAGqlkdA3w-n44u6LMxCueJI
+![image](https://user-images.githubusercontent.com/114469025/194910050-1067c8e3-9894-4447-8749-592f24692407.png)
+![image](https://user-images.githubusercontent.com/114469025/194910849-bb07c716-d05e-489d-ba73-3d329e7369fa.png)
 ![image](https://user-images.githubusercontent.com/114469025/194910807-a26208af-0c9d-48d9-b732-018df02fc061.png)
 ![image](https://user-images.githubusercontent.com/114469025/194910231-65d162cf-03f8-4c06-9a4d-509fd93fb9cf.png)
 
 - Реализация записи данных из скрипта на python в google-таблицу
+
 Код программы в python
 ![image](https://user-images.githubusercontent.com/114469025/194911494-e89a95b1-e641-4660-9be0-b632efc63cf4.png)
 
@@ -37,14 +37,17 @@
 Ссылка на google-таблицу: https://docs.google.com/spreadsheets/d/1WoByECqunJxc9lO_eL8gABwnv5IL4WxzbLaTHig1pr4/edit?usp=sharing
 
 Реализация записи данных из скрипта на python в google-таблицу:
+
 ![image](https://user-images.githubusercontent.com/114469025/194911874-dfe5b089-b429-4cdd-9647-9f2b376d0b56.png)
 
 - Написание кода в Unity, в котором воспроизводится файл в зависимости от данных в таблице
 
 Создание проекта на Unity Hub:
+
 ![image](https://user-images.githubusercontent.com/114469025/194912698-26d96b12-dd5e-4449-b431-e91acef8e7f6.png)
 
 Код написанный в Visual Studio скрипте проекта:
+
 ```py
 
 using System.Collections;
