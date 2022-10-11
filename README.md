@@ -153,7 +153,7 @@ public class NewBehaviourScript : MonoBehaviour
 
 
 - Сравнение данных:
-- 
+
 ![image](https://user-images.githubusercontent.com/114469025/194913336-7bb4038f-fe04-4d94-98a9-5900a0346750.png)
 ![image](https://user-images.githubusercontent.com/114469025/194913364-0253cae0-c1a0-4d0c-8713-8bd882657544.png)
 ![image](https://user-images.githubusercontent.com/114469025/194913467-ced0b045-1b88-4f98-bd1a-4d19ac919120.png)
